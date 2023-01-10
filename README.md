@@ -56,3 +56,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/e846535b56af5f01151ec93f88785b86d3809564/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cucumber.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/npm-logo.svg" style="width:35px; height:35px"/>
+
+## GitHub stats
+![NAME github stats](https://github-readme-stats.vercel.app/apiusername=Azamat002&show_icons=true&theme=radical) 
