@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" style="width:35px; height:35px"/></a>
 <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" style="width:35px; height:35px"/></a>
 <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" style="width:35px; height:35px"/></a>
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="width:35px; height:35px"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="height:35px"/></a>
 <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" style="width:35px; height:35px"/></a>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bootstrap.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/mysql.svg" style="width:35px; height:35px"/>
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/maven.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/SeleniumHQ/www.seleniumhq.org/e846535b56af5f01151ec93f88785b86d3809564/src/main/webapp/images/originals/Selenium%20Logo%20Upright.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/cucumber.svg" style="width:35px; height:35px"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" style="width:35px; height:35px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" style="height:35px"/>
 
 ## GitHub stats
 ![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamat002&count_private=true)
