@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" style="height:35px"/>
 
 ## GitHub stats
-![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamat002&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamat002&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat002&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat002&layout=default)
 
