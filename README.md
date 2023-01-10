@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/xo_vallee/"><img src="https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png" style="width:35px; height:35px"/> </a>
 <a href="https://t.me/xo_vallee"><img src="https://user-images.githubusercontent.com/80198432/211537262-701378fc-ac0a-4a87-b143-dbf2a5153af2.png" style="width:35px; height:35px"/></a>
 
-<img src="" style="width:35px; height:35px"/>
-<a href=""> </a>
 ## Languages and tools
 
 <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/intellij-idea.svg" style="width:35px; height:35px"/></a>
