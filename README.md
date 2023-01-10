@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amakulbaj@gmail.com
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/azamat-makulbay/"><img src="https://user-images.githubusercontent.com/80198432/211534599-1bf7e689-f5e8-42aa-887d-43ce72afec0c.png" style="width:25px; height:25px"/> </a>
-<a href="https://www.instagram.com/xo_vallee/"><img src="https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png" style="width:25px; height:25px"/> </a>
-<a href="https://t.me/xo_vallee"><img src="https://user-images.githubusercontent.com/80198432/211537262-701378fc-ac0a-4a87-b143-dbf2a5153af2.png" style="width:25px; height:25px"/></a>
+<a href="https://www.linkedin.com/in/azamat-makulbay/"><img src="https://user-images.githubusercontent.com/80198432/211534599-1bf7e689-f5e8-42aa-887d-43ce72afec0c.png" style="width:35px; height:35px"/> </a>
+<a href="https://www.instagram.com/xo_vallee/"><img src="https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png" style="width:35px; height:35px"/> </a>
+<a href="https://t.me/xo_vallee"><img src="https://user-images.githubusercontent.com/80198432/211537262-701378fc-ac0a-4a87-b143-dbf2a5153af2.png" style="width:35px; height:35px"/></a>
+<img src="" />
+## Languages and tools
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/intellij-idea.svg" style="width:35px; height:35px"/>
