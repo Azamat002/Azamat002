@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 <a href="https://t.me/xo_vallee"><img src="https://user-images.githubusercontent.com/80198432/211537262-701378fc-ac0a-4a87-b143-dbf2a5153af2.png" style="width:35px; height:35px"/></a>
 
 <img src="" style="width:35px; height:35px"/>
-
+<a href=""> </a>
 ## Languages and tools
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/intellij-idea.svg" style="width:35px; height:35px"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" style="width:35px;"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" style="width:35px; height:35px"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" style="width:35px; height:35px"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" style="width:35px; height:35px"/>
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" style="width:35px; height:35px"/>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/intellij-idea.svg" style="width:35px; height:35px"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/git.svg" style="width:35px;"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" style="width:35px; height:35px"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" style="width:35px; height:35px"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" style="width:35px; height:35px"/></a>
+<a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/java.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/bootstrap.svg" style="width:35px; height:35px"/>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/mysql.svg" style="width:35px; height:35px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="width:35px; height:35px"/>
