@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 - 👨‍💻 I’m looking for an internship as a front-end developer
 - 📫 How to reach me: amakulbaj@gmail.com
 
+## Soft skills
+- Problem-solving skills
+- Willingness to learn
+- Attention to detail
+- Good communication skills
+- Passion for creating user-friendly websites
+- Patience and perseverance
+- Flexibility and Adaptability
+
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/azamat-makulbay/"><img src="https://user-images.githubusercontent.com/80198432/211534599-1bf7e689-f5e8-42aa-887d-43ce72afec0c.png" style="width:35px; height:35px"/> </a>
 <a href="https://www.instagram.com/xo_vallee/"><img src="https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png" style="width:35px; height:35px"/> </a>
