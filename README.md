@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amakulbaj@gmail.com
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/azamat-makulbay/"> ![image](https://user-images.githubusercontent.com/80198432/211534599-1bf7e689-f5e8-42aa-887d-43ce72afec0c.png)</a>
-<a href="https://www.instagram.com/xo_vallee/"> ![image](https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png</a>
+<a href="https://www.linkedin.com/in/azamat-makulbay/"><img src="https://user-images.githubusercontent.com/80198432/211534599-1bf7e689-f5e8-42aa-887d-43ce72afec0c.png" style="width:20px; height:20px"/> </a>
 <a href="https://www.instagram.com/xo_vallee/"><img src="https://user-images.githubusercontent.com/80198432/211535115-2c34e260-9a10-4e23-9365-15addc305aea.png" style="width:20px; height:20px"/> </a>
