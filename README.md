@@ -61,5 +61,5 @@ Here are some ideas to get you started:
 ## GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamat002&count_private=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat002&layout=default)
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azamat002&layout=default)
+
