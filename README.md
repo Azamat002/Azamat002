@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/npm-logo.svg" style="width:35px; height:35px"/>
 
 ## GitHub stats
-![NAME github stats](https://github-readme-stats.vercel.app/apiusername=Azamat002&show_icons=true&theme=radical) 
+![Azamat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azamat002&count_private=true)
