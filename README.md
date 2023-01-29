@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.js
 - 👨‍💻 I’m looking for an internship as a front-end developer
 - 📫 How to reach me: amakulbaj@gmail.com
+- 🌎 <a href="https://azamat002.github.io/web-portfolio/">CV website</a>
 
 ## Soft skills
 - Problem-solving skills
