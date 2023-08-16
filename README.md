@@ -6,6 +6,7 @@
 
 Here are some ideas to get you started:
 
+<!-- 
 - 🔭 I’m currently working on a project called **AITU Dormitory Roommate Finder.**
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on a project called **AITU Dormitory Roommate Finder.** -->
 - 🌱 I’m currently learning React.js
-- 👨‍💻 I’m looking for an internship as a front-end developer
+- 👨‍💻 I’m looking for an internship/job as a front-end developer
 - 📫 How to reach me: amakulbaj@gmail.com
 - 🌎 <a href="https://azamat002.github.io/web-portfolio/">CV website</a>
 
