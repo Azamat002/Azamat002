@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 ![2400 x 1200 github cover](https://user-images.githubusercontent.com/80198432/211530914-3ff4d6d0-332b-46c9-8d47-f11a2a6a8f98.png)
 
 <!-- - 🔭 I’m currently working on a project called **AITU Dormitory Roommate Finder.** -->
-- 🌱 I’m currently learning React.js
-- 👨‍💻 I’m looking for an internship/job as a front-end developer
-- 📫 How to reach me: amakulbaj@gmail.com
 - 🌎 <a href="https://azamat002.github.io/web-portfolio/">CV website</a>
 
 ## Soft skills
