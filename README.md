@@ -1,4 +1,4 @@
-### Hi there, I'm Azamat Makulbay 👋🧑🏻‍💻
+### Hi there, I'm Azamat 👋🧑🏻‍💻
 
 <!--
 **Azamat002/Azamat002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
